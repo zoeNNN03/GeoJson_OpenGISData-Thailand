@@ -1,0 +1,5 @@
+Cluster 0: ['Ang Thong', 'Chachoengsao', 'Chainat', 'Kamphaeng Phet', 'Lopburi', 'Nakhon Sawan', 'Phetchabun', 'Phetchaburi', 'Phitsanulok', 'Phra Nakhon Si Ayutthaya', 'Phuket', 'Prachinburi', 'Prachuap Khiri Khan', 'Ratchaburi', 'Rayong', 'Samut Songkhram', 'Saraburi', 'Sing Buri', 'Songkhla', 'Sukhothai', 'Suphan Buri', 'Uthai Thani']
+Cluster 1: ['Chanthaburi', 'Chumphon', 'Krabi', 'Nakhon Nayok', 'Nakhon Si Thammarat', 'Narathiwat', 'Pattani', 'Phang Nga', 'Phatthalung', 'Phichit', 'Ranong', 'Satun', 'Surat Thani', 'Trang', 'Trat', 'Yala']
+Cluster 2: ['Bangkok']
+Cluster 3: ['Chonburi', 'Nakhon Pathom', 'Nonthaburi', 'Pathum Thani', 'Samut Prakan', 'Samut Sakhon']
+Cluster 4: ['Amnat Charoen', 'Bueng Kan', 'Buriram', 'Chaiyaphum', 'Chiang Mai', 'Chiang Rai', 'Kalasin', 'Kanchanaburi', 'Khon Kaen', 'Lampang', 'Lamphun', 'Loei', 'Mae Hong Son', 'Maha Sarakham', 'Mukdahan', 'Nakhon Phanom', 'Nakhon Ratchasima', 'Nan', 'Nong Bua Lamphu', 'Nong Khai', 'Phayao', 'Phrae', 'Roi Et', 'Sa Kaeo', 'Sakon Nakhon', 'Sisaket', 'Surin', 'Tak', 'Ubon Ratchathani', 'Udon Thani', 'Uttaradit', 'Yasothon']
