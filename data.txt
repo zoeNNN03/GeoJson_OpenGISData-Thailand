@@ -1,4 +1,4 @@
-Cluster 0: ['Ang Thong', 'Chachoengsao', 'Chainat', 'Kamphaeng Phet', 'Lopburi', 'Nakhon Sawan', 'Phetchabun', 'Phetchaburi', 'Phitsanulok', 'Phra Nakhon Si Ayutthaya', 'Phuket', 'Prachinburi', 'Prachuap Khiri Khan', 'Ratchaburi', 'Rayong', 'Samut Songkhram', 'Saraburi', 'Sing Buri', 'Songkhla', 'Sukhothai', 'Suphan Buri', 'Uthai Thani']
+Cluster 0: ['Ang Thong', 'Chachoengsao', 'Chainat', 'Kamphaeng Phet', 'Lopburi', 'Nakhon Sawan', 'Phetchabun', 'Phetchaburi', 'Phitsanulok', 'Phra Nakhon Si Ayutthaya', 'Phuket', 'Prachin Buri', 'Prachuap Khiri Khan', 'Ratchaburi', 'Rayong', 'Samut Songkhram', 'Saraburi', 'Sing Buri', 'Songkhla', 'Sukhothai', 'Suphan Buri', 'Uthai Thani']
 Cluster 1: ['Chanthaburi', 'Chumphon', 'Krabi', 'Nakhon Nayok', 'Nakhon Si Thammarat', 'Narathiwat', 'Pattani', 'Phang Nga', 'Phatthalung', 'Phichit', 'Ranong', 'Satun', 'Surat Thani', 'Trang', 'Trat', 'Yala']
 Cluster 2: ['Bangkok']
 Cluster 3: ['Chonburi', 'Nakhon Pathom', 'Nonthaburi', 'Pathum Thani', 'Samut Prakan', 'Samut Sakhon']
